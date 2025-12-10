@@ -1,7 +1,7 @@
 # Welcome to IDRISIUM Corp 🌌
 
 <div align="center">
-  <img src="https://i.imgur.com/YOUR_LOGO_LINK.png" width="200" alt="IDRISIUM Logo">
+  <img src="logo.png" width="200" alt="IDRISIUM Logo">
   <h1>Intelligence from the Shadows</h1>
   <p><strong>Elite Software Development & AI Solutions Agency</strong></p>
   
